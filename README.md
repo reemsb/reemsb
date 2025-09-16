@@ -6,7 +6,7 @@
 
 ### :woman_technologist: About Me:
 
-- :telescope: I am a <b>Front-End Engineer</b> based in Austria and contributing to frontend projects for building web and mobile applications.
+- :telescope: I am a <b>Front-End Engineer</b> based in Austria and contributing to frontend projects for building web and mobile applications from design up to deployement.
 
 - :seedling: Exploring SEO Technical Content Writing.
 
@@ -37,3 +37,5 @@
 ### :fire: Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reemsb&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reemsb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
