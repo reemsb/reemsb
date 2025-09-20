@@ -1,6 +1,4 @@
 <h2 align='center'> Hello world, I'm Reem 👋 </h2>
-<div id="header" align="center" >
-<img src="https://miro.medium.com/max/1280/0*YyL79g0pgvpMnzta" width="450px"/>
 </div>
 
 
